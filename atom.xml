@@ -4,7 +4,7 @@
   <title><![CDATA[Reading List]]></title>
   <link href="http://bbucket.github.io/atom.xml" rel="self"/>
   <link href="http://bbucket.github.io/"/>
-  <updated>2017-02-25T20:42:30+00:00</updated>
+  <updated>2017-02-25T20:50:44+00:00</updated>
   <id>http://bbucket.github.io/</id>
   <author>
     <name><![CDATA[B L]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome to Reading List]]></title>
+    <link href="http://bbucket.github.io/blog/2017/02/25/welcome-to-reading-list/"/>
+    <updated>2017-02-25T20:50:36+00:00</updated>
+    <id>http://bbucket.github.io/blog/2017/02/25/welcome-to-reading-list</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[this is a third post]]></title>
