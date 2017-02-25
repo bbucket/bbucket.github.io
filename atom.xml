@@ -4,7 +4,7 @@
   <title><![CDATA[Reading List]]></title>
   <link href="http://bbucket.github.io/atom.xml" rel="self"/>
   <link href="http://bbucket.github.io/"/>
-  <updated>2017-02-25T19:01:24+00:00</updated>
+  <updated>2017-02-25T19:33:17+00:00</updated>
   <id>http://bbucket.github.io/</id>
   <author>
     <name><![CDATA[B L]]></name>
@@ -16,9 +16,19 @@
   <entry>
     <title type="html"><![CDATA[First Post]]></title>
     <link href="http://bbucket.github.io/blog/2017/02/25/first-post/"/>
-    <updated>2017-02-25T18:44:36+00:00</updated>
+    <updated>2017-02-25T00:00:00+00:00</updated>
     <id>http://bbucket.github.io/blog/2017/02/25/first-post</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<hr />
+
+<p>layout: post
+title: &ldquo;First Post&rdquo;
+date: 2017-02-25 18:44:36 +0000
+comments: true
+external-url: <a href="http://bbc.co.uk/">http://bbc.co.uk/</a></p>
+
+<h2>categories: Introduction</h2>
+
+<h1>This is the first post</h1>
 ]]></content>
   </entry>
   
