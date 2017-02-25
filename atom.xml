@@ -4,7 +4,7 @@
   <title><![CDATA[Reading List]]></title>
   <link href="http://bbucket.github.io/atom.xml" rel="self"/>
   <link href="http://bbucket.github.io/"/>
-  <updated>2017-02-25T21:10:29+00:00</updated>
+  <updated>2017-02-25T21:20:14+00:00</updated>
   <id>http://bbucket.github.io/</id>
   <author>
     <name><![CDATA[B L]]></name>
@@ -18,7 +18,14 @@
     <link href="http://bbucket.github.io/blog/2017/02/25/welcome-to-reading-list/"/>
     <updated>2017-02-25T20:50:36+00:00</updated>
     <id>http://bbucket.github.io/blog/2017/02/25/welcome-to-reading-list</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h1>Welcome to Reading List</h1>
+
+<ul>
+<li>RED</li>
+<li>Green</li>
+<li>Bolue</li>
+</ul>
+
 ]]></content>
   </entry>
   
