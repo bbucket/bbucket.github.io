@@ -5,10 +5,10 @@
 <lastmod>2017-02-25T19:50:50+00:00</lastmod>
 </url>
 <url>
-<loc>http://bbucket.github.io/blog/</loc>
+<loc>http://bbucket.github.io/blog/archives/</loc>
 </url>
 <url>
-<loc>http://bbucket.github.io/blog/archives/</loc>
+<loc>http://bbucket.github.io/blog/</loc>
 </url>
 <url>
 <loc>http://bbucket.github.io/archives/</loc>
@@ -18,6 +18,9 @@
 </url>
 <url>
 <loc>http://bbucket.github.io/posts/</loc>
+</url>
+<url>
+<loc>http://bbucket.github.io/blog/categories/</loc>
 </url>
 <url>
 <loc>http://bbucket.github.io/sources/</loc>
