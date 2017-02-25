@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: introduction | Reading List]]></title>
+  <link href="http://bbucket.github.io/blog/categories/introduction/atom.xml" rel="self"/>
+  <link href="http://bbucket.github.io/"/>
+  <updated>2017-02-25T21:25:22+00:00</updated>
+  <id>http://bbucket.github.io/</id>
+  <author>
+    <name><![CDATA[B L]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome to Reading List]]></title>
+    <link href="http://bbucket.github.io/blog/2017/02/25/welcome-to-reading-list/"/>
+    <updated>2017-02-25T20:50:36+00:00</updated>
+    <id>http://bbucket.github.io/blog/2017/02/25/welcome-to-reading-list</id>
+    <content type="html"><![CDATA[<h1>Welcome to Reading List</h1>
+
+<ul>
+<li>RED</li>
+<li>Green</li>
+<li>Bolue</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
