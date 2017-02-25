@@ -2,27 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Reading List]]></title>
-  <link href="http://http://bbucket.github.io/atom.xml" rel="self"/>
-  <link href="http://http://bbucket.github.io/"/>
-  <updated>2017-02-25T20:03:27+00:00</updated>
-  <id>http://http://bbucket.github.io/</id>
+  <link href="http://bbucket.github.io/atom.xml" rel="self"/>
+  <link href="http://bbucket.github.io/"/>
+  <updated>2017-02-25T20:05:08+00:00</updated>
+  <id>http://bbucket.github.io/</id>
   <author>
     <name><![CDATA[B L]]></name>
     
   </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    
-    <title type="html"><![CDATA[Link 1 &rarr;]]></title>
-    <link href="http://bbc.co.uk/"/>
-    
+    <title type="html"><![CDATA[Link 1]]></title>
+    <link href="http://bbucket.github.io/blog/2017/02/25/link-1/"/>
     <updated>2017-02-25T19:50:50+00:00</updated>
-    <id>http://http://bbucket.github.io/blog/2017/02/25/link-1</id>
-    
-      <content type="html"><![CDATA[<h1>This is a Header</h1>
-<a rel="full-article" href="/blog/2017/02/25/link-1/"><font size = "4">&#8629;</font></a>]]></content>
-      
+    <id>http://bbucket.github.io/blog/2017/02/25/link-1</id>
+    <content type="html"><![CDATA[<h1>This is a Header</h1>
+]]></content>
   </entry>
   
 </feed>
