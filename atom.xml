@@ -4,7 +4,7 @@
   <title><![CDATA[Reading List]]></title>
   <link href="http://bbucket.github.io/atom.xml" rel="self"/>
   <link href="http://bbucket.github.io/"/>
-  <updated>2017-02-25T20:29:50+00:00</updated>
+  <updated>2017-02-25T20:39:23+00:00</updated>
   <id>http://bbucket.github.io/</id>
   <author>
     <name><![CDATA[B L]]></name>
@@ -14,12 +14,16 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Link 1]]></title>
-    <link href="http://bbucket.github.io/blog/2017/02/25/link-1/"/>
+    
+    <title type="html"><![CDATA[Link 1 GLYPH GOES HERE]]></title>&#8734;
+    <link href="http://bbc.co.uk/"/>
+    
     <updated>2017-02-25T19:50:50+00:00</updated>
     <id>http://bbucket.github.io/blog/2017/02/25/link-1</id>
+    
     <content type="html"><![CDATA[<h1>This is a Header</h1>
-]]></content>
+<a rel="full-article" href="http://bbucket.github.io/blog/2017/02/25/link-1/">Permalink</a>]]></content>&#8734;
+    
   </entry>
   
 </feed>
